@@ -40,6 +40,10 @@
 1. [分词.txt](lists/分词.txt)
 1. [由词表到给单字组词表-RE.txt](lists/由词表到给单字组词表-RE.txt)
 1. [把词表转换为字=词表-RE.txt](lists/把词表转换为字=词表-RE.txt)
+1. [勘误表-绝对优势-不成词.txt](lists/勘误表-绝对优势-不成词.txt)
+1. [勘误表-扩窗-后词.txt](lists/勘误表-扩窗-后词.txt)
+1. [勘误表-扩窗-前词.txt](lists/勘误表-扩窗-前词.txt)
+1. [勘误表-扩窗-前后词.txt](lists/勘误表-扩窗-前后词.txt)
 
 笔顺相关：
 
@@ -62,8 +66,8 @@
 
 持续从日常工作中收集：
 
-3. [ah21错误词语.txt](lists/ah21错误词语.txt)
-4. [ah21错误表达式-RE.txt](lists/ah21错误表达式-RE.txt)
+1. [ah21错误词语.txt](lists/ah21错误词语.txt)
+1. [ah21错误表达式-RE.txt](lists/ah21错误表达式-RE.txt)
 
 
 ## TODO
